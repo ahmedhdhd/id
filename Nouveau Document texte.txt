@@ -1,3 +1,6 @@
 hi 
 theres
+<<<<<<< HEAD
 other again
+=======
+>>>>>>> 8f4c2899fd0ed1b3ad9b04de2ab3f085763e47d0
